@@ -1,4 +1,5 @@
 # lightline-neomake
+## :warning: this repository was transferred to another owner: [sineto/lightline-neomake](https://github.com/sineto/lightline-neomake).
 Inpired by [lightline-ale](https://github.com/maximbaz/lightline-ale) 
 this plugin provides [neomake](https://github.com/neomake/neomake) indicators
 for the [lightline](https://github.com/itchyny/lightline.vim) vim plugin.
